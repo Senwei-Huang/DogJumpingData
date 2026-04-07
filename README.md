@@ -1,11 +1,12 @@
 # Behavioral Strategies and Kinematic Mechanisms of Canine Animals Jumping over Obstacles While Running #
-This repository contains supplementary materials, data, and code for the paper "Behavioral Strategies and Kinematic Mechanisms of Canine Animals Jumping over Obstacles While Running."
+This repository contains the supplementary materials, data, and code for the paper “Behavioral Strategies and Kinematic Mechanisms of Canine Animals Jumping over Obstacles While Running.”
 
 **Authors**: Senwei Huang, Chong Pi, Xiuli Zhang, Fei Meng
+> Senwei Huang and Chong Pi contributed equally to this work.
 
-**Paper**: 
+**Paper Link**: https://doi.org/10.1155/abb/4355136
 
-**dependencies**:
+### Dependency:
 ```
 Webots (recommend 2023b)
 MATLAB (recommend R2021b)
