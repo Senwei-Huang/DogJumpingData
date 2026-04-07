@@ -14,10 +14,15 @@ Eigen (recommend 3.4.0)
 
 ### Citation
 ```
-@article{
-title={Behavioral Strategies and Kinematic Mechanisms of Canine Animals Jumping over Obstacles While Running},
-author={Huang, Senwei and Pi, Chong and Zhang, Xiuli and Meng, Fei},
-journal={Animals (under review)},
-year={2024}
+@article{https://doi.org/10.1155/abb/4355136,
+author = {Huang, Senwei and Pi, Chong and Zhang, Xiuli and Meng, Fei},
+title = {Behavioral Strategies and Kinematic Mechanisms of Canine Animals Jumping Over Obstacles While Running},
+journal = {Applied Bionics and Biomechanics},
+volume = {2026},
+number = {1},
+pages = {4355136},
+keywords = {animal modeling, biomimetics, canine, jumping over obstacles, quadruped robot},
+doi = {https://doi.org/10.1155/abb/4355136},
+year = {2026}
 }
 ```
